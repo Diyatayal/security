@@ -12,3 +12,4 @@ Requires-Dist: pymongo[srv]==3.12
 Requires-Dist: scikit-learn
 Requires-Dist: pyaml
 Requires-Dist: dill
+Requires-Dist: mlflow
